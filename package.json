@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Boghdady/preparing-nodejs-course.git"
+    "url": "git+https://github.com/mohamed-khaledes/noon-clone-server.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Boghdady/preparing-nodejs-course/issues"
+    "url": "https://github.com/mohamed-khaledes/noon-clone-server/issues"
   },
-  "homepage": "https://github.com/Boghdady/preparing-nodejs-course#readme",
+  "homepage": "https://github.com/mohamed-khaledes/noon-clone-server#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.2",
