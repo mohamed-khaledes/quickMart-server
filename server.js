@@ -100,5 +100,3 @@ process.on('unhandledRejection', (err) => {
   });
 });
 
- // "mongoose": "^6.0.13",
-//  "node": ">=10.0.0"
