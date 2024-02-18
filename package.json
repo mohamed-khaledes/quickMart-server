@@ -1,7 +1,7 @@
 {
-  "name": "noon-clone-server",
+  "name": "ecommerce-website-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "ecommerce website server",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,17 +9,9 @@
     "start": "SET NODE_ENV=production & node server.js",
     "install-server": "npm install"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mohamed-khaledes/noon-clone-server.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/mohamed-khaledes/noon-clone-server/issues"
-  },
-  "homepage": "https://github.com/mohamed-khaledes/noon-clone-server#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.2",
